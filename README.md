@@ -8,3 +8,5 @@ Ideas:
 - form to submit requests to add a new store
 - best price highlighted in green
 - option to add discounts a user receives at a store (e.g. employee discount, rewards card discount, etc.)
+- let people submit PRs to add their own stores
+- - provide instructions on how to do this, i.e. Selenium IDE, looking at example code
